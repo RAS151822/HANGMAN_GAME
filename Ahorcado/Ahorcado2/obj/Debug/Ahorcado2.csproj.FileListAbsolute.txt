@@ -1,0 +1,33 @@
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Form1.resources
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Form2.resources
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Properties.Resources.resources
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csproj.GenerateResource.cache
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csproj.CoreCompileInputs.cache
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.exe.config
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.exe
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.pdb
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.exe
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.pdb
+C:\Users\RASPUTIN\source\repos\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csprojAssemblyReference.cache
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.exe.config
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.exe
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\bin\Debug\Ahorcado2.pdb
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csprojAssemblyReference.cache
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Form1.resources
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Form2.resources
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.Properties.Resources.resources
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csproj.GenerateResource.cache
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.csproj.CoreCompileInputs.cache
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.exe
+C:\Users\Ras\Desktop\GIT REPOSITORIO\DI\1TRIMESTRE\DESARROLLO_INTERFACES\Ahorcado2\Ahorcado2\obj\Debug\Ahorcado2.pdb
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\bin\Debug\Ahorcado2.exe.config
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\bin\Debug\Ahorcado2.exe
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\bin\Debug\Ahorcado2.pdb
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\obj\Debug\Ahorcado2.csprojAssemblyReference.cache
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\obj\Debug\Ahorcado2.Form1.resources
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\obj\Debug\Ahorcado2.Form2.resources
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\obj\Debug\Ahorcado2.Properties.Resources.resources
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\obj\Debug\Ahorcado2.csproj.GenerateResource.cache
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\obj\Debug\Ahorcado2.csproj.CoreCompileInputs.cache
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\obj\Debug\Ahorcado2.exe
+C:\Users\Ras\source\repos\Ahorcado\Ahorcado2\obj\Debug\Ahorcado2.pdb
